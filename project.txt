@@ -1,0 +1,63 @@
+
+database name :mcq
+
+table 1 name:questions
+	column_name=q_no(p_key,auto)
+	column_name=quest
+	column_name=option1
+	column_name=option2
+	column_name=option3
+	column_name=option4
+	Column_name=answer
+	Column_name=marks	
+
+	
+table 2 name:score_table
+	Column_name=s_id(p-key)
+	Column_name=full_name()
+	Column_name=score()
+
+
+Display Following:- 
+Welcome to Quiz
+1.Attempt Quiz
+2.Get Score Details
+3.Exit from Quiz
+
+1	Quiz Questions
+
+
+You have scored (value) out of 10	
+Class A- 8-10
+Class B- 6-8			
+Class C- 5	
+Class D- <5 Fail
+
+
+2 
+ 1 All Student score in Sorted Order
+ 2 Student Score By Name
+
+
+	1 All Sudent Score   Id ,Name,Score
+	
+	2 Enter Student Name
+
+	 particular Id	,Name,Score
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
